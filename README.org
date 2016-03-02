@@ -26,5 +26,6 @@ add (setq op/theme 'org-page-theme-martin)
 
 Showcase your project in style with Martin, a bold, timeless theme for GitHub
 pages! Named for the punchcutter William Martin, apprentice to John Baskerville.
-This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0
-Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
+This work is licensed under a
+[[http://creativecommons.org/licenses/by-sa/3.0/][Creative Commons
+Attribution-ShareAlike 3.0 Unported License]].
