@@ -10,26 +10,26 @@
  * http://code.google.com/p/google-code-prettify/source/browse/trunk/src/prettify.css
  */
 .pln {
-  color: #bd3613; }
+  color: #ffffff; }
 
 .str {
-  color: #269186; }
+  color: #9ccc65; }
 
 .kwd {
-  color: #859900; }
+  color: #fff59d; }
 
 .com {
-  color: #586175;
+  color: #b0bec5;
   font-style: italic; }
 
 .typ {
   color: #b58900; }
 
 .lit {
-  color: #2aa198; }
+  color: #9ccc65; }
 
 .pun {
-  color: #839496; }
+  color: #81d4fa; }
 
 .opn {
   color: #839496; }
@@ -60,13 +60,16 @@ pre.prettyprint {
   padding: 10px;}
 
 .org-src-container{
-  background-color: #042029;
+  background-color: #263238;
+  color: white;
   font-size: smaller;
 }
 
-
 .example {
-  background-color: #000000;
+  background-color: #2D2D2D;
+  color: #D3D0C8;
+
+;
   padding: 10px;}
 
 /* Specify class=linenums on a pre to get line numbering */

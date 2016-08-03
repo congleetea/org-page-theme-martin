@@ -18,8 +18,26 @@ sub-title.
 change org-page config
 
 #+begin_src emacs-lisp
-add (setq op/theme 'org-page-theme-martin)
+(setq op/theme 'org-page-theme-martin)
 #+end_src
+
+*** Source Block syntax highlighting
+The Theme is configured to use the syntax highlighting from your emacs theme. To
+enable this in the configuration set:
+
+#+begin_src emacs-lisp
+(setq op/highlight-render 'htmlize)
+#+end_src
+
+To disable this and use prettify.js comment out the function in =main.js= and
+the includes for prettify.js in =footer.mustache=. 
+
+Then make sure that the following is set:
+                         
+#+begin_src emacs-lisp
+(setq op/highlight-render 'js)
+#+end_src
+
 
 
 * License
