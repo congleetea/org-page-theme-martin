@@ -9,7 +9,7 @@ adapted for org-page by me.
 delete your index.org
 
 #+begin_src shell
-git clone https://github.com/cpaulik/org-page-theme-martin.git
+git clone https://github.com/congleetea/org-page-theme-martin.git
 #+end_src
 
 edit org-page-theme-martin/templates/index.mustache and change title and
