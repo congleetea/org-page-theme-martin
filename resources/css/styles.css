@@ -142,8 +142,8 @@ a:hover{
 
 header hgroup {
   clear: both;
-  border-top: 4px solid #222;
-  /* margin-top: 3em; */
+  /* border-top: 4px solid #222; */
+  margin-top: 3em;
 }
 
 .article-list{
@@ -153,13 +153,13 @@ header hgroup {
 
 header h1 {
   margin: 0;
-  margin-top: 1px;
-  padding-top: 1.5em;
+  /* margin-top: 2px; */
+  /* padding-top: 1.5em; */
   font-family: 'Playfair Display', "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
-  line-height: 1.33em;
-  font-style: italic;
-  font-size: 4em;
-  border-top: 1px solid #222;
+  /* line-height: 1.33em; */
+  font-style: normal;
+  font-size: 2em;
+  /* border-top: 2px solid #222; */
 }
 
 .tagline {
